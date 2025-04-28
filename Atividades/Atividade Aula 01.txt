@@ -1,0 +1,19 @@
+Atividade Aula: 01
+
+• Identifique as classes e atributos para cada uma das situações citadas abaixo:
+A) Em uma turma de um curso de graduação temos disciplinas ministradas em salas
+diferentes.
+R)
+
+Classe: Turma
+Atributos: Disciplinas, salas
+
+
+
+B) A transportadora "Super Cometa" monitora seus caminhões e motoristas através
+de um controlador embutido. Por meio dele é possível saber a localização de cada
+veículo.
+R)
+
+Classe: Caminhão, Motorista
+Atributos: Localização, controlador embutido
