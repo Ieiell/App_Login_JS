@@ -1,0 +1,6 @@
+Aula: 02
+Respostas:c
+
+Letra D - As bibliotecas do projeto são configuradas via NPM ou YARN. 
+
+Letra B - A sintaxe JSX (JavaScript e XML) é utilizada no React Native. 

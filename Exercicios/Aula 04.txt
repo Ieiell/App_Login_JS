@@ -1,0 +1,7 @@
+Aula 04:
+Respostas:
+
+Letra E - A esquematização da interface interativa deve levar em conta aspectos como os requisitos de software
+e os recursos disponíveis na plataforma.
+
+Letra B - TouchableOpacity. 

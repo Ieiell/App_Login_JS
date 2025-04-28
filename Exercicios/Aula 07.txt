@@ -1,0 +1,6 @@
+Aula: 07 
+Respostas
+
+Letra D -  async.
+
+Letra C - executeSql.

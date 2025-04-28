@@ -1,0 +1,7 @@
+Aula: 06
+Respostas:
+
+Letra A -  A tela que será exibida é associada no atributo component de Screen.
+
+Letra A - Definindo o valor da opacidade com Animated.Value(0), e utilizando timing sobre o valor, com toValue igual a 1 e o tempo desejado em duration.
+

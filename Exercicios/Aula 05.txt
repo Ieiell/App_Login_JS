@@ -1,0 +1,7 @@
+Aula 05:
+Respostas:
+
+Letra E -  O componente VirtualizedList oferece grande flexibilidade, e serve de base para a definição de FlatList
+e SectionList.
+
+Letra C - Extrair o conteúdo dos dados que serão apresentados.
